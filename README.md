@@ -1,7 +1,7 @@
 # test_getx
-<<<<<<< HEAD
+
 test getx repo
-=======
+
 
 A new Flutter project.
 
